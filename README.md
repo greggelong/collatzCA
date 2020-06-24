@@ -1,4 +1,5 @@
 ## Collatz Cellular Automata
+
 This cellular automaton is also a map of the Collatz conjecture.  
 
 The Collatz conjecture says that if you start with any positive integer and if the number is even, divide it by two and if the number is odd, triple it and add one, you will eventually reach one. Some numbers take longer than others to get to one as they grow to very large numbers. 
@@ -9,5 +10,8 @@ Just as an example 255 takes 48 steps to get to 1 and it reaches a height of 131
 
 When all the cells have reached one the cells are reseeded. The cell sizes can be changed.  Large fields of  smalls cells look like living colonies. 
 
+## [Large Field](https://editor.p5js.org/greggelong/present/itruW0LPl)
+
 Small fields of larges cells look like some type of alien communication.    #creativecoding #collatzconjecture #processing #proceduralart #P5js
 
+## [Small Field](https://editor.p5js.org/greggelong/present/fcll_Ix5q)
